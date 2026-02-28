@@ -3,7 +3,10 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Now-brightgreen?style=for-the-badge&logo=netlify)](https://github-explorerpro-shadow.netlify.app)
 [![Created By](https://img.shields.io/badge/Created%20By-JithinGK-blue?style=for-the-badge)](https://github.com/JithinGK51)
 
+**Project URL:** [https://github-explorerpro-shadow.netlify.app](https://github-explorerpro-shadow.netlify.app)
+
 **GitHub Explorer Pro** is a high-performance, aesthetically stunning web application designed to visualize GitHub profiles with premium analytics and smooth animations.
+
 
 ---
 
